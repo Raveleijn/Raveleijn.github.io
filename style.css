@@ -1,6 +1,7 @@
 body {
   background-color: darkcyan;
   font-family: verdana;
+  font-size: 20px;
 }
 
 h1 {
@@ -11,5 +12,4 @@ h1 {
 
 p {
   color: darkblue;
-  font-size: 20px;
 }
